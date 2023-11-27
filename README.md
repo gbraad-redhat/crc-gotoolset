@@ -1,10 +1,9 @@
 Gerard Braad's CRC Go development environment
 =============================================
 
-!["Prompt"](https://raw.githubusercontent.com/gbraad/assets/gh-pages/icons/prompt-icon-64.png)
+[![](https://avatars.githubusercontent.com/u/46589369?s=120)](https://github.com/gbraad-redhat/crc-gotoolset/)
 
-
-Installation and deployment scripts for my personal development environment.
+Installation and deployment scripts for my personal development environment for CRC.
 
 
 Usage
