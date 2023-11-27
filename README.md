@@ -1,5 +1,5 @@
-Gerard Braad's UBI8 Go development environment
-==============================================
+Gerard Braad's CRC Go development environment
+=============================================
 
 !["Prompt"](https://raw.githubusercontent.com/gbraad/assets/gh-pages/icons/prompt-icon-64.png)
 
@@ -12,9 +12,7 @@ Usage
 
 ### Cloud
 
-  * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/ubi8-gotoolset)
-  * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/ubi8-gotoolset)
-  * `goenv` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
+  * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-redhat/crc-gotoolset)
 
 
 Authors
