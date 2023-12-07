@@ -8,10 +8,13 @@ git init /workspace/crc-gotoolset
 
 cd ~/Projects
 
-git clone https://github.com/crc-org/crc
-git clone https://github.com/crc-org/snc
+git clone https://github.com/crc-org/crc crc-upstream
+git clone https://github.com/crc-org/snc 
 git clone https://github.com/crc-org/admin-helper
 git clone https://github.com/crc-org/routes-controller
 git clone https://github.com/crc-org/win32-background-launcher
+git clone https://github.com/gbraad-redhat/crc crc-workspace
+git clone https://github.com/gbraad-redhat/gvisor-tap-vsock gvisor-workspace
+git clone https://github.com/gbraad-redhat/crc-gotoolset
 
 exit 0
