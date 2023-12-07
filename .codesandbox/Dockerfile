@@ -1,4 +1,4 @@
-FROM --platform=linux/amd64 ghcr.io/gbraad-devenv/ubi8-gotoolset/base:1.20
+FROM --platform=linux/amd64 ghcr.io/gbraad-devenv/ubi8-gotoolset/dotfiles:1.20
 
 USER root
 
